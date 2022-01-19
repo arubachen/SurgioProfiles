@@ -1,4 +1,4 @@
-{%macromain(rule)%}
+{% macro main(rule) %}
 #(DNSCachePollution)
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp,{{rule}}
@@ -600,4 +600,4 @@ DOMAIN-SUFFIX,metapix.net,{{rule}}
 DOMAIN-SUFFIX,s3.amazonaws.com,{{rule}}
 DOMAIN-SUFFIX,zaobao.com.sg,{{rule}}
 DOMAIN,international-gfe.download.nvidia.com,{{rule}}
-{%endmacro%}
+{% endmacro %}
