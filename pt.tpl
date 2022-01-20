@@ -1,6 +1,5 @@
 {% macro main(rule) %}
 # NAME:PrivateTracker-List
-# AUTHOR:Aruba
 # UPDATED:2022-1-18 15:50:59
 
 #
