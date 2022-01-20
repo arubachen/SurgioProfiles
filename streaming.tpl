@@ -179,18 +179,18 @@ DOMAIN-SUFFIX,nflxvideo.net,{{netflix_rule}}
 DOMAIN-KEYWORD,netflixdnstest,{{netflix_rule}}
 DOMAIN-KEYWORD,dualstack.apiproxy-,{{netflix_rule}}
 DOMAIN-KEYWORD,dualstack.ichnaea-web-,{{netflix_rule}}
-IP-CIDR,23.246.0.0/18,no-resolve,{{netflix_rule}}
-IP-CIDR,34.210.42.111/32,no-resolve,{{netflix_rule}}
-IP-CIDR,37.77.184.0/21,no-resolve,{{netflix_rule}}
-IP-CIDR,45.57.0.0/17,no-resolve,{{netflix_rule}}
-IP-CIDR,52.89.124.203/32,no-resolve,{{netflix_rule}}
-IP-CIDR,54.148.37.5/32,no-resolve,{{netflix_rule}}
-IP-CIDR,64.120.128.0/17,no-resolve,{{netflix_rule}}
-IP-CIDR,66.197.128.0/17,no-resolve,{{netflix_rule}}
-IP-CIDR,108.175.32.0/20,no-resolve,{{netflix_rule}}
-IP-CIDR,192.173.64.0/18,no-resolve,{{netflix_rule}}
-IP-CIDR,198.38.96.0/19,no-resolve,{{netflix_rule}}
-IP-CIDR,198.45.48.0/20,no-resolve,{{netflix_rule}}
+IP-CIDR,23.246.0.0/18,{{netflix_rule}},no-resolve
+IP-CIDR,34.210.42.111/32,{{netflix_rule}},no-resolve
+IP-CIDR,37.77.184.0/21,{{netflix_rule}},no-resolve
+IP-CIDR,45.57.0.0/17,{{netflix_rule}},no-resolve
+IP-CIDR,52.89.124.203/32,{{netflix_rule}},no-resolve
+IP-CIDR,54.148.37.5/32,{{netflix_rule}},no-resolve
+IP-CIDR,64.120.128.0/17,{{netflix_rule}},no-resolve
+IP-CIDR,66.197.128.0/17,{{netflix_rule}},no-resolve
+IP-CIDR,108.175.32.0/20,{{netflix_rule}},no-resolve
+IP-CIDR,192.173.64.0/18,{{netflix_rule}},no-resolve
+IP-CIDR,198.38.96.0/19,{{netflix_rule}},no-resolve
+IP-CIDR,198.45.48.0/20,{{netflix_rule}},no-resolve
 
 # > Paramount+
 # USER-AGENT,PPlus*

@@ -87,10 +87,10 @@ DOMAIN-SUFFIX,line.me,{{rule}}
 DOMAIN-SUFFIX,line-apps.com,{{rule}}
 DOMAIN-SUFFIX,line-scdn.net,{{rule}}
 DOMAIN-SUFFIX,naver.jp,{{rule}}
-IP-CIDR,103.2.30.0/23,no-resolve,{{rule}}
-IP-CIDR,125.209.208.0/20,no-resolve,{{rule}}
-IP-CIDR,147.92.128.0/17,no-resolve,{{rule}}
-IP-CIDR,203.104.144.0/21,no-resolve,{{rule}}
+IP-CIDR,103.2.30.0/23,{{rule}}
+IP-CIDR,125.209.208.0/20,{{rule}},no-resolve
+IP-CIDR,147.92.128.0/17,{{rule}},no-resolve
+IP-CIDR,203.104.144.0/21,{{rule}},no-resolve
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms,{{rule}}
 DOMAIN-SUFFIX,onedrive.live.com,{{rule}}
