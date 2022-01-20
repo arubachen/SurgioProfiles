@@ -102,7 +102,7 @@ DOMAIN,ap2-prod.disco-api.com,{{default_rule}}
 DOMAIN,ap2-prod-images.disco-api.com,{{default_rule}}
 DOMAIN,discovery-ap.conax.cloud,{{default_rule}}
 DOMAIN,ap2-prod-direct.discoveryplus.com,{{default_rule}}
-DOMAIN,gdvm0o88gc3qseqotiavvvhim.litix.io
+DOMAIN,gdvm0o88gc3qseqotiavvvhim.litix.io,{{default_rule}}
 # DOMAIN,dplus-ph-prod-vod.akamaized.net
 # DOMAIN,dplus-ph-google-v2.prod-vod.h264.io
 ## Discovery+
