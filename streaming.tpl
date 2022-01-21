@@ -264,4 +264,11 @@ DOMAIN-SUFFIX,youtu.be,{{youtube_rule}}
 DOMAIN-SUFFIX,googlevideo.com,{{youtube_rule}}
 DOMAIN,youtubei.googleapis.com,{{youtube_rule}}
 DOMAIN-KEYWORD,youtube,{{youtube_rule}}
+
+# > Tidal
+# USER-AGENT,TIDAL*
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,{{default_rule}}
+DOMAIN-SUFFIX,tidal.com,{{default_rule}}
+DOMAIN-SUFFIX,tidalhifi.com,{{default_rule}}
+
 {% endmacro %}
