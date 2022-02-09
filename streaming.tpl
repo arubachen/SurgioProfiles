@@ -119,7 +119,7 @@ DOMAIN-SUFFIX,disneyplus.com,{{disneyplus_rule}}
 DOMAIN-SUFFIX,disney-plus.net,{{disneyplus_rule}}
 DOMAIN-SUFFIX,disneystreaming.com,{{disneyplus_rule}}
 DOMAIN-SUFFIX,dssott.com,{{disneyplus_rule}}
-# DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamgrid.com,{{disneyplus_rule}}
 DOMAIN,playback-certs.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,disney.api.edge.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,disney.connections.edge.bamgrid.com,{{disneyplus_rule}}
