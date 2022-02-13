@@ -119,7 +119,7 @@ DOMAIN-SUFFIX,disneyplus.com,{{disneyplus_rule}}
 DOMAIN-SUFFIX,disney-plus.net,{{disneyplus_rule}}
 DOMAIN-SUFFIX,disneystreaming.com,{{disneyplus_rule}}
 DOMAIN-SUFFIX,dssott.com,{{disneyplus_rule}}
-# DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamgrid.com,{{disneyplus_rule}}
 DOMAIN,playback-certs.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,disney.api.edge.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,disney.connections.edge.bamgrid.com,{{disneyplus_rule}}
@@ -127,6 +127,8 @@ DOMAIN,disney.content.edge.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,disney.playback.edge.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,cdn.registerdisney.go.com,{{disneyplus_rule}}
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,{{disneyplus_rule}}
+DOMAIN-SUFFIX,bam.nr-data.net,{{disneyplus_rule}}
+DOMAIN-SUFFIX,techlab-cdn.com,{{disneyplus_rule}}
 
 
 # > HBOGOAsia
