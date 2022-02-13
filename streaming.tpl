@@ -128,6 +128,7 @@ DOMAIN,disney.playback.edge.bamgrid.com,{{disneyplus_rule}}
 DOMAIN,cdn.registerdisney.go.com,{{disneyplus_rule}}
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,{{disneyplus_rule}}
 
+
 # > HBOGOAsia
 # USER-AGENT,HBO%20GO%20PROD*
 # PROCESS-NAME,sg.hbo.hbogo
