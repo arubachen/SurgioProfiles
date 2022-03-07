@@ -5,7 +5,7 @@
 #
 # Proxy
 #
-
+DOMAIN-SUFFIX,hutongyouwu.org,{{rule}}
 DOMAIN-SUFFIX,passthepopcorn.me,{{rule}}
 DOMAIN-SUFFIX,nzbs.in,{{rule}}
 DOMAIN-SUFFIX,racing4everyone.eu,{{rule}}
