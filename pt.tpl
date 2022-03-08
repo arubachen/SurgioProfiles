@@ -1,10 +1,11 @@
-{% macro main(rule) %}
+{% macro main(rule,byr_rule) %}
 # NAME:PrivateTracker-List
-# UPDATED:2022-1-18 15:50:59
+# UPDATED:2022-3-8 13:40:59
 
 #
 # Proxy
 #
+DOMAIN-SUFFIX,byr.pt,{{byr_rule}}
 DOMAIN-SUFFIX,hutongyouwu.org,{{rule}}
 DOMAIN-SUFFIX,passthepopcorn.me,{{rule}}
 DOMAIN-SUFFIX,nzbs.in,{{rule}}
