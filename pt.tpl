@@ -1,6 +1,6 @@
 {% macro main(rule,byr_rule) %}
 # NAME:PrivateTracker-List
-# UPDATED:2022-3-8 13:40:59
+# UPDATED:2022-3-18 21:45:59
 
 #
 # Proxy
@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,blutopia.xyz,{{rule}}
 #
 # No-Proxy
 #
-
+DOMAIN-SUFFIX,music-vid.com,DIRECT
 DOMAIN-SUFFIX,2f4y.me,DIRECT
 DOMAIN-SUFFIX,32pag.es,DIRECT
 DOMAIN-SUFFIX,3dtorrents.org,DIRECT
