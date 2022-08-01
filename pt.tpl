@@ -5,6 +5,7 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,pornbay.wtf,{{byr_rule}}
 DOMAIN-SUFFIX,byr.pt,{{byr_rule}}
 DOMAIN-SUFFIX,hutongyouwu.org,{{rule}}
 DOMAIN-SUFFIX,passthepopcorn.me,{{rule}}
