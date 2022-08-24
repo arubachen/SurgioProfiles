@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,blutopia.xyz,{{rule}}
 #
 # No-Proxy
 #
+DOMAIN-SUFFIX,bittorrentfiles.me,DIRECT
 DOMAIN-SUFFIX,music-vid.com,DIRECT
 DOMAIN-SUFFIX,2f4y.me,DIRECT
 DOMAIN-SUFFIX,32pag.es,DIRECT
