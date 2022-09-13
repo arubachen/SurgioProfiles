@@ -5,6 +5,8 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,filelist.io,{{rule}}
+DOMAIN-SUFFIX,leaguehd.com,{{rule}}
 DOMAIN-SUFFIX,pornbay.wtf,{{byr_rule}}
 DOMAIN-SUFFIX,byr.pt,{{byr_rule}}
 DOMAIN-SUFFIX,hutongyouwu.org,{{rule}}
@@ -127,7 +129,6 @@ DOMAIN-SUFFIX,exoticaz.to,DIRECT
 DOMAIN-SUFFIX,extremlymtorrents.ws,DIRECT
 DOMAIN-SUFFIX,fantastic-heaven.eu,DIRECT
 DOMAIN-SUFFIX,femdomcult.org,DIRECT
-DOMAIN-SUFFIX,filelist.io,DIRECT
 DOMAIN-SUFFIX,finelite.org,DIRECT
 DOMAIN-SUFFIX,finvip.org,DIRECT
 DOMAIN-SUFFIX,flro.org,DIRECT
@@ -189,7 +190,6 @@ DOMAIN-SUFFIX,kapaki.info,DIRECT
 DOMAIN-SUFFIX,karagarga.in,DIRECT
 DOMAIN-SUFFIX,keepfrds.com,DIRECT
 DOMAIN-SUFFIX,kraytracker.com,DIRECT
-DOMAIN-SUFFIX,leaguehd.com,DIRECT
 DOMAIN-SUFFIX,learnflakes.net,DIRECT
 DOMAIN-SUFFIX,lemonhd.org,DIRECT
 DOMAIN-SUFFIX,lesbians4u.org,DIRECT
