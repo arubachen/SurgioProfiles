@@ -3,8 +3,34 @@
 # UPDATED:2022-3-18 21:45:59
 
 #
+# KEYWORD
+#											
+
+DOMAIN-KEYWORD,tracker,DIRECT
+DOMAIN-KEYWORD,announce.php?passkey=,DIRECT
+DOMAIN-KEYWORD,torrent,DIRECT
+DOMAIN-KEYWORD,peer_id=,DIRECT
+DOMAIN-KEYWORD,info_hash,DIRECT
+DOMAIN-KEYWORD,get_peers,DIRECT
+DOMAIN-KEYWORD,find_node,DIRECT
+DOMAIN-KEYWORD,BitTorrent,DIRECT
+DOMAIN-KEYWORD,announce_peer,DIRECT
+
+#
 # Proxy
 #
+DOMAIN-SUFFIX,hdhome.org,{{rule}}
+DOMAIN-SUFFIX,hdchina.org,{{rule}}
+DOMAIN-SUFFIX,haidan.video,{{rule}}
+DOMAIN-SUFFIX,hares.top,{{rule}}
+DOMAIN-SUFFIX,hd4fans.org,{{rule}}
+DOMAIN-SUFFIX,hdarea.co,{{rule}}
+DOMAIN-SUFFIX,hdatmos.club,{{rule}}
+DOMAIN-SUFFIX,hdbd.us,{{rule}}
+DOMAIN-SUFFIX,hdsky.me,{{rule}}
+DOMAIN-SUFFIX,discfan.net,{{rule}}
+DOMAIN-SUFFIX,chdbits.co,{{rule}}
+DOMAIN-SUFFIX,audiences.me,{{rule}}
 DOMAIN-SUFFIX,filelist.io,{{rule}}
 DOMAIN-SUFFIX,leaguehd.com,{{rule}}
 DOMAIN-SUFFIX,pornbay.wtf,{{byr_rule}}
@@ -60,7 +86,6 @@ DOMAIN-SUFFIX,artofmisdirection.com,DIRECT
 DOMAIN-SUFFIX,asgrd.org,DIRECT
 DOMAIN-SUFFIX,asiancinema.me,DIRECT
 DOMAIN-SUFFIX,ast4u.me,DIRECT
-DOMAIN-SUFFIX,audiences.me,DIRECT
 DOMAIN-SUFFIX,audionews.org,DIRECT
 DOMAIN-SUFFIX,avgv.cc,DIRECT
 DOMAIN-SUFFIX,avistaz.to,DIRECT
@@ -93,7 +118,6 @@ DOMAIN-SUFFIX,ccfbits.org,DIRECT
 DOMAIN-SUFFIX,cgpeers.com,DIRECT
 DOMAIN-SUFFIX,cgpeers.to,DIRECT
 DOMAIN-SUFFIX,channelx.xyz,DIRECT
-DOMAIN-SUFFIX,chdbits.co,DIRECT
 DOMAIN-SUFFIX,cinemageddon.net,DIRECT
 DOMAIN-SUFFIX,cinemamovies.pl,DIRECT
 DOMAIN-SUFFIX,cinematik.net,DIRECT
@@ -115,7 +139,6 @@ DOMAIN-SUFFIX,diablotorrent.net,DIRECT
 DOMAIN-SUFFIX,dicmusic.club,DIRECT
 DOMAIN-SUFFIX,digitalcore.club,DIRECT
 DOMAIN-SUFFIX,digitalhive.org,DIRECT
-DOMAIN-SUFFIX,discfan.net,DIRECT
 DOMAIN-SUFFIX,dvdseed.eu,DIRECT
 DOMAIN-SUFFIX,dxdhd.com,DIRECT
 DOMAIN-SUFFIX,eastgame.org,DIRECT
@@ -152,7 +175,6 @@ DOMAIN-SUFFIX,hdbd.us,DIRECT
 DOMAIN-SUFFIX,hdbits.org,DIRECT
 DOMAIN-SUFFIX,hdbug.best,DIRECT
 DOMAIN-SUFFIX,hdcenter.cc,DIRECT
-DOMAIN-SUFFIX,hdchina.org,DIRECT
 DOMAIN-SUFFIX,hdcity.city,DIRECT
 DOMAIN-SUFFIX,hdcity.li,DIRECT
 DOMAIN-SUFFIX,hdcorea.me,DIRECT
@@ -160,11 +182,9 @@ DOMAIN-SUFFIX,hddolby.com,DIRECT
 DOMAIN-SUFFIX,hdf.work,DIRECT
 DOMAIN-SUFFIX,hdf.world,DIRECT
 DOMAIN-SUFFIX,hdfans.org,DIRECT
-DOMAIN-SUFFIX,hdhome.org,DIRECT
 DOMAIN-SUFFIX,hd-only.org,DIRECT
 DOMAIN-SUFFIX,hdpost.top,DIRECT
 DOMAIN-SUFFIX,hdroute.org,DIRECT
-DOMAIN-SUFFIX,hdsky.me,DIRECT
 DOMAIN-SUFFIX,hd-space.org,DIRECT
 DOMAIN-SUFFIX,hd-spain.com,DIRECT
 DOMAIN-SUFFIX,hdstreet.club,DIRECT
@@ -321,17 +341,4 @@ DOMAIN,tracker.0day.kiev.ua,DIRECT
 DOMAIN,u2.dmhy.org,DIRECT
 DOMAIN,xauat6.edu.cn,DIRECT
 
-#
-# KEYWORD
-#											
-
-DOMAIN-KEYWORD,tracker,DIRECT
-DOMAIN-KEYWORD,announce.php?passkey=,DIRECT
-DOMAIN-KEYWORD,torrent,DIRECT
-DOMAIN-KEYWORD,peer_id=,DIRECT
-DOMAIN-KEYWORD,info_hash,DIRECT
-DOMAIN-KEYWORD,get_peers,DIRECT
-DOMAIN-KEYWORD,find_node,DIRECT
-DOMAIN-KEYWORD,BitTorrent,DIRECT
-DOMAIN-KEYWORD,announce_peer,DIRECT
 {% endmacro %}
