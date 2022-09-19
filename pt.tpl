@@ -3,20 +3,6 @@
 # UPDATED:2022-3-18 21:45:59
 
 #
-# KEYWORD
-#											
-
-DOMAIN-KEYWORD,tracker,DIRECT
-DOMAIN-KEYWORD,announce.php?passkey=,DIRECT
-DOMAIN-KEYWORD,torrent,DIRECT
-DOMAIN-KEYWORD,peer_id=,DIRECT
-DOMAIN-KEYWORD,info_hash,DIRECT
-DOMAIN-KEYWORD,get_peers,DIRECT
-DOMAIN-KEYWORD,find_node,DIRECT
-DOMAIN-KEYWORD,BitTorrent,DIRECT
-DOMAIN-KEYWORD,announce_peer,DIRECT
-
-#
 # Proxy
 #
 DOMAIN-SUFFIX,hdhome.org,{{rule}}
@@ -340,5 +326,19 @@ DOMAIN,sjtu.edu.cn,DIRECT
 DOMAIN,tracker.0day.kiev.ua,DIRECT
 DOMAIN,u2.dmhy.org,DIRECT
 DOMAIN,xauat6.edu.cn,DIRECT
+
+#
+# KEYWORD
+#											
+
+DOMAIN-KEYWORD,tracker,DIRECT
+DOMAIN-KEYWORD,announce.php?passkey=,DIRECT
+DOMAIN-KEYWORD,torrent,DIRECT
+DOMAIN-KEYWORD,peer_id=,DIRECT
+DOMAIN-KEYWORD,info_hash,DIRECT
+DOMAIN-KEYWORD,get_peers,DIRECT
+DOMAIN-KEYWORD,find_node,DIRECT
+DOMAIN-KEYWORD,BitTorrent,DIRECT
+DOMAIN-KEYWORD,announce_peer,DIRECT
 
 {% endmacro %}
