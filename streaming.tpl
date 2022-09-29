@@ -230,10 +230,10 @@ DOMAIN-SUFFIX,sbs.com.au,{{default_rule}}
 
 # > Spotify
 # USER-AGENT,*Spotify*
-DOMAIN-SUFFIX,pscdn.co,{{default_rule}}
-DOMAIN-SUFFIX,scdn.co,{{default_rule}}
-DOMAIN-SUFFIX,spoti.fi,{{default_rule}}
-DOMAIN-SUFFIX,spotify.com,{{default_rule}}
+DOMAIN-SUFFIX,pscdn.co,{{US}}
+DOMAIN-SUFFIX,scdn.co,{{US}}
+DOMAIN-SUFFIX,spoti.fi,{{US}}
+DOMAIN-SUFFIX,spotify.com,{{US}}
 
 # > Stan
 DOMAIN-SUFFIX,stan.com.au,{{default_rule}}

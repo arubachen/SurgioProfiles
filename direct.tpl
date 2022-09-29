@@ -1,4 +1,5 @@
 {% macro main(rule) %}
+
 # Alibaba
 DOMAIN-KEYWORD,alibaba-inc,{{ rule }}
 DOMAIN-KEYWORD,alibaba,{{ rule }}
