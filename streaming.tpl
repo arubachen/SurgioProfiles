@@ -1,4 +1,12 @@
-{% macro main(default_rule,netflix_rule,youtube_rule,starplus_rule,disneyplus_rule,prime_rule,hulu_rule,US) %}
+{% macro main(default_rule,netflix_rule,youtube_rule,starplus_rule,disneyplus_rule,prime_rule,hulu_rule,US,KR,JP) %}
+
+# odysseyplus
+DOMAIN,cf.odysseyplus.site,{{default_rule}}
+DOMAIN,us.odysseyplus.site,{{US}}
+DOMAIN,kr.odysseyplus.site,{{KR}}
+DOMAIN,jp.odysseyplus.site,{{JP}}
+DOMAIN,jp2.odysseyplus.site,{{JP}}
+
 # StreamingMedia
 # > AbemaTV
 # USER-AGENT,AbemaTV*
