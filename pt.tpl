@@ -5,6 +5,9 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,broadcasthe.net,{{rule}}
+DOMAIN-SUFFIX,beyond-hd.me,{{rule}}
+DOMAIN-SUFFIX,beitai.pt,{{rule}}
 DOMAIN-SUFFIX,hdhome.org,{{rule}}
 DOMAIN-SUFFIX,hdchina.org,{{rule}}
 DOMAIN-SUFFIX,haidan.video,{{rule}}
@@ -79,8 +82,6 @@ DOMAIN-SUFFIX,awesome-hd.me,DIRECT
 DOMAIN-SUFFIX,back-ups.me,DIRECT
 DOMAIN-SUFFIX,baconbits.org,DIRECT
 DOMAIN-SUFFIX,bakabt.me,DIRECT
-DOMAIN-SUFFIX,beitai.pt,DIRECT
-DOMAIN-SUFFIX,beyond-hd.me,DIRECT
 DOMAIN-SUFFIX,bibliotik.me,DIRECT
 DOMAIN-SUFFIX,bigtorrent.eu,DIRECT
 DOMAIN-SUFFIX,bigtower.info,DIRECT
@@ -92,7 +93,6 @@ DOMAIN-SUFFIX,bj-share.info,DIRECT
 DOMAIN-SUFFIX,bluebird-hd.org,DIRECT
 DOMAIN-SUFFIX,blutopia.xyz,DIRECT
 DOMAIN-SUFFIX,brasiltracker.org,DIRECT
-DOMAIN-SUFFIX,broadcasthe.net,DIRECT
 DOMAIN-SUFFIX,broadcity.in,DIRECT
 DOMAIN-SUFFIX,brokenstones.club,DIRECT
 DOMAIN-SUFFIX,btgigs.info,DIRECT
