@@ -5,6 +5,7 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,omgwtfnzbs.me,{{rule}}
 DOMAIN-SUFFIX,broadcasthe.net,{{rule}}
 DOMAIN-SUFFIX,beyond-hd.me,{{rule}}
 DOMAIN-SUFFIX,beitai.pt,{{rule}}
@@ -226,7 +227,6 @@ DOMAIN-SUFFIX,notwhat.cd,DIRECT
 DOMAIN-SUFFIX,npupt.com,DIRECT
 DOMAIN-SUFFIX,nrw-tracker.eu,DIRECT
 DOMAIN-SUFFIX,nzbs.in,DIRECT
-DOMAIN-SUFFIX,omgwtfnzbs.me,DIRECT
 DOMAIN-SUFFIX,open.cd,DIRECT
 DOMAIN-SUFFIX,openlook.me,DIRECT
 DOMAIN-SUFFIX,oppaiti.me,DIRECT
