@@ -109,6 +109,13 @@ DOMAIN-SUFFIX,images-amazon.com,{{ rule }}
 DOMAIN-SUFFIX,ipip.net,{{ rule }}
 DOMAIN-SUFFIX,iqiyi.com,{{ rule }}
 DOMAIN-SUFFIX,jd.com,{{ rule }}
+DOMAIN-SUFFIX,360buy.com,{{ rule }}
+DOMAIN-SUFFIX,360buyimg.com,{{ rule }}
+DOMAIN-SUFFIX,jcloudcs.com,{{ rule }}
+DOMAIN-SUFFIX,jd.hk,{{ rule }}
+DOMAIN-SUFFIX,jdcloud.com,{{ rule }}
+DOMAIN-SUFFIX,jdpay.com,{{ rule }}
+DOMAIN-SUFFIX,paipai.com,{{ rule }}
 DOMAIN-SUFFIX,jianshu.com,{{ rule }}
 DOMAIN-SUFFIX,knewone.com,{{ rule }}
 DOMAIN-SUFFIX,le.com,{{ rule }}
