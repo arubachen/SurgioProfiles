@@ -5,6 +5,7 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,piggo.me,{{rule}}
 DOMAIN-SUFFIX,omgwtfnzbs.me,{{rule}}
 DOMAIN-SUFFIX,broadcasthe.net,{{rule}}
 DOMAIN-SUFFIX,beyond-hd.me,{{rule}}
