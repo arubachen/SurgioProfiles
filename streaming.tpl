@@ -176,30 +176,48 @@ DOMAIN-SUFFIX,mubi.com,{{default_rule}}
 DOMAIN-SUFFIX,mubicdn.net,{{default_rule}}
 
 # > Netflix
-# USER-AGENT,Argo*
+USER-AGENT,Argo*,{{netflix_rule}}
 PROCESS-NAME,com.netflix.mediaclient,{{netflix_rule}}
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,{{netflix_rule}}
+DOMAIN-KEYWORD,dualstack.apiproxy-,{{netflix_rule}}
+DOMAIN-KEYWORD,netflixdnstest,{{netflix_rule}}
+DOMAIN,netflix.com.edgesuite.net,{{netflix_rule}}
+DOMAIN-SUFFIX,fast.com,{{netflix_rule}}
 DOMAIN-SUFFIX,netflix.com,{{netflix_rule}}
 DOMAIN-SUFFIX,netflix.net,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest0.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest1.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest2.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest3.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest4.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest5.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest6.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest7.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest8.com,{{netflix_rule}}
+DOMAIN-SUFFIX,netflixdnstest9.com,{{netflix_rule}}
 DOMAIN-SUFFIX,nflxext.com,{{netflix_rule}}
 DOMAIN-SUFFIX,nflximg.com,{{netflix_rule}}
 DOMAIN-SUFFIX,nflximg.net,{{netflix_rule}}
 DOMAIN-SUFFIX,nflxso.net,{{netflix_rule}}
 DOMAIN-SUFFIX,nflxvideo.net,{{netflix_rule}}
-DOMAIN-KEYWORD,netflixdnstest,{{netflix_rule}}
-DOMAIN-KEYWORD,dualstack.apiproxy-,{{netflix_rule}}
-DOMAIN-KEYWORD,dualstack.ichnaea-web-,{{netflix_rule}}
+IP-CIDR,8.41.4.0/24,{{netflix_rule}},no-resolve
 IP-CIDR,23.246.0.0/18,{{netflix_rule}},no-resolve
-IP-CIDR,34.210.42.111/32,{{netflix_rule}},no-resolve
 IP-CIDR,37.77.184.0/21,{{netflix_rule}},no-resolve
+IP-CIDR,38.72.126.0/24,{{netflix_rule}},no-resolve
 IP-CIDR,45.57.0.0/17,{{netflix_rule}},no-resolve
-IP-CIDR,52.89.124.203/32,{{netflix_rule}},no-resolve
-IP-CIDR,54.148.37.5/32,{{netflix_rule}},no-resolve
 IP-CIDR,64.120.128.0/17,{{netflix_rule}},no-resolve
 IP-CIDR,66.197.128.0/17,{{netflix_rule}},no-resolve
+IP-CIDR,69.53.224.0/19,{{netflix_rule}},no-resolve
+IP-CIDR,103.87.204.0/22,{{netflix_rule}},no-resolve
 IP-CIDR,108.175.32.0/20,{{netflix_rule}},no-resolve
+IP-CIDR,185.2.220.0/22,{{netflix_rule}},no-resolve
+IP-CIDR,185.9.188.0/22,{{netflix_rule}},no-resolve
 IP-CIDR,192.173.64.0/18,{{netflix_rule}},no-resolve
 IP-CIDR,198.38.96.0/19,{{netflix_rule}},no-resolve
 IP-CIDR,198.45.48.0/20,{{netflix_rule}},no-resolve
+IP-CIDR,203.75.84.0/24,{{netflix_rule}},no-resolve
+IP-CIDR,207.45.72.0/22,{{netflix_rule}},no-resolve
+IP-CIDR,208.75.76.0/22,{{netflix_rule}},no-resolve
 
 # > Paramount+
 # USER-AGENT,PPlus*
