@@ -72,16 +72,32 @@ DOMAIN-SUFFIX,github.com,{{rule}}
 DOMAIN-SUFFIX,github.io,{{rule}}
 DOMAIN-SUFFIX,githubusercontent.com,{{rule}}
 # > Google
-DOMAIN-SUFFIX,appspot.com,{{rule}}
-DOMAIN-SUFFIX,blogger.com,{{rule}}
-DOMAIN-SUFFIX,getoutline.org,{{rule}}
+DOMAIN-KEYWORD,gmail,{{rule}}
+DOMAIN-KEYWORD,google,{{rule}}
+DOMAIN-SUFFIX,1e100.net,{{rule}}
+DOMAIN-SUFFIX,2mdn.net,{{rule}}
+DOMAIN-SUFFIX,app-measurement.net,{{rule}}
+DOMAIN-SUFFIX,g.co,{{rule}}
+DOMAIN-SUFFIX,ggpht.com,{{rule}}
+DOMAIN-SUFFIX,goo.gl,{{rule}}
+DOMAIN-SUFFIX,googleapis.cn,DIRECT
+DOMAIN-SUFFIX,googleapis.com,{{rule}}
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
+DOMAIN-SUFFIX,gstatic.cn,{{rule}}
+DOMAIN-SUFFIX,gstatic.com,{{rule}}
 DOMAIN-SUFFIX,gvt0.com,{{rule}}
 DOMAIN-SUFFIX,gvt1.com,{{rule}}
+DOMAIN-SUFFIX,gvt2.com,{{rule}}
 DOMAIN-SUFFIX,gvt3.com,{{rule}}
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,{{rule}}
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com,{{rule}}
+DOMAIN-SUFFIX,youtu.be,{{rule}}
+DOMAIN-SUFFIX,youtube-nocookie.com,{{rule}}
+DOMAIN-SUFFIX,youtube.com,{{rule}}
+DOMAIN-SUFFIX,yt.be,{{rule}}
 DOMAIN-SUFFIX,ytimg.com,{{rule}}
-DOMAIN-KEYWORD,google,{{rule}}
-DOMAIN-KEYWORD,.blogspot.,{{rule}}
+IP-CIDR,74.125.0.0/16,{{rule}},no-resolve
+IP-CIDR,173.194.0.0/16,{{rule}},no-resolve
+
 # > Line
 DOMAIN-SUFFIX,line.me,{{rule}}
 DOMAIN-SUFFIX,line-apps.com,{{rule}}
