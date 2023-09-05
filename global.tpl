@@ -531,7 +531,7 @@ DOMAIN-SUFFIX,madewithcode.com,{{rule}}
 DOMAIN-SUFFIX,material.io,{{rule}}
 DOMAIN-SUFFIX,page.link,{{rule}}
 DOMAIN-SUFFIX,polymer-project.org,{{rule}}
-DOMAIN-SUFFIX,recaptcha.net,{{rule}}
+# DOMAIN-SUFFIX,recaptcha.net,{{rule}}
 DOMAIN-SUFFIX,shattered.io,{{rule}}
 DOMAIN-SUFFIX,synergyse.com,{{rule}}
 DOMAIN-SUFFIX,telephony.goog,{{rule}}
