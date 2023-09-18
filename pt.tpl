@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,hdchina.org,{{rule}}
 DOMAIN-SUFFIX,haidan.video,{{rule}}
 DOMAIN-SUFFIX,hares.top,{{rule}}
 DOMAIN-SUFFIX,hd4fans.org,{{rule}}
-DOMAIN-SUFFIX,hdarea.co,{{rule}}
+DOMAIN-SUFFIX,hdarea.club,{{rule}}
 DOMAIN-SUFFIX,hdatmos.club,{{rule}}
 DOMAIN-SUFFIX,hdbd.us,{{rule}}
 DOMAIN-SUFFIX,hdsky.me,{{rule}}
