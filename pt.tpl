@@ -5,6 +5,7 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
 DOMAIN-SUFFIX,piggo.me,{{rule}}
 DOMAIN-SUFFIX,omgwtfnzbs.me,{{rule}}
