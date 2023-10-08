@@ -5,6 +5,8 @@
 #
 # Proxy
 #
+DOMAIN-SUFFIX,podbean.com,{{rule}}
+DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
 SRC-PORT,13378,{{rule}}
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}

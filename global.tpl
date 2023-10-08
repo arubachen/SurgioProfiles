@@ -2,8 +2,6 @@
 #(DNSCachePollution)
 
 # > 自定义代理
-DOMAIN-SUFFIX,podbean.com,{{rule}}
-DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
 
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp,{{rule}}
