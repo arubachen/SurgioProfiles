@@ -2,7 +2,7 @@
 #(DNSCachePollution)
 
 # > 自定义代理
-
+SRC-PORT,13378,{{rule}}
 DOMAIN-SUFFIX,podbean.com,{{rule}}
 DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
 
