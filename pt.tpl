@@ -5,6 +5,7 @@
 #
 # Proxy
 #
+SRC-PORT,13378,{{rule}}
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
 DOMAIN-SUFFIX,piggo.me,{{rule}}
