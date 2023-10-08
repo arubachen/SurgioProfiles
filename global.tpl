@@ -1,5 +1,11 @@
 {% macro main(rule) %}
 #(DNSCachePollution)
+
+# > 自定义代理
+
+DOMAIN-SUFFIX,podbean.com,{{rule}}
+DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
+
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp,{{rule}}
 DOMAIN,d3c33hcgiwev3.cloudfront.net,{{rule}}
