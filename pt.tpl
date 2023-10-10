@@ -5,7 +5,6 @@
 #
 # Proxy
 #
-IP-CIDR,192.168.1.100/32,{{rule}}
 DOMAIN-SUFFIX,podbean.com,{{rule}}
 DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
 SRC-PORT,13378,{{rule}}
