@@ -2,6 +2,7 @@
 #(DNSCachePollution)
 
 # > 自定义代理
+DOMAIN,story.st8.one,DIRECT
 
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp,{{rule}}
