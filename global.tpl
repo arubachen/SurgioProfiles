@@ -3,6 +3,7 @@
 
 # > 自定义代理
 DOMAIN,story.st8.one,DIRECT
+DOMAIN-SUFFIX,txrjy.com,{{rule}}
 
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp,{{rule}}
