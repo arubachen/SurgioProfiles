@@ -1,9 +1,19 @@
-{% macro main(rule) %}
+{% macro main(rule,USrule) %}
 #(DNSCachePollution)
 
 # > 自定义代理
 DOMAIN,story.st8.one,DIRECT
 DOMAIN-SUFFIX,txrjy.com,{{rule}}
+# > Bing Copilot代理
+DOMAIN-SUFFIX,bing.com,{{USrule}}
+DOMAIN-SUFFIX,bing.com.cn,{{USrule}}
+DOMAIN-SUFFIX,bing.net,{{USrule}}
+DOMAIN-SUFFIX,bingads.com,{{USrule}}
+DOMAIN-SUFFIX,bingagencyawards.com,{{USrule}}
+DOMAIN-SUFFIX,bingapistatistics.com,{{USrule}}
+DOMAIN-SUFFIX,bingsandbox.com,{{USrule}}
+DOMAIN-SUFFIX,bingvisualsearch.com,{{USrule}}
+DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp,{{rule}}
