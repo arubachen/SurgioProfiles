@@ -1,13 +1,27 @@
-{% macro main(rule,byr_rule) %}
+{% macro main(rule,byr_rule,USrule) %}
 # NAME:PrivateTracker-List
 # UPDATED:2022-3-18 21:45:59
 
 #
-# Proxy
+# DIY Proxy
 #
 DOMAIN-SUFFIX,podbean.com,{{rule}}
 DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
 SRC-PORT,13378,{{rule}}
+# > Bing Copilot代理
+DOMAIN-SUFFIX,bing.com,{{USrule}}
+DOMAIN-SUFFIX,bing.com.cn,{{USrule}}
+DOMAIN-SUFFIX,bing.net,{{USrule}}
+DOMAIN-SUFFIX,bingads.com,{{USrule}}
+DOMAIN-SUFFIX,bingagencyawards.com,{{USrule}}
+DOMAIN-SUFFIX,bingapistatistics.com,{{USrule}}
+DOMAIN-SUFFIX,bingsandbox.com,{{USrule}}
+DOMAIN-SUFFIX,bingvisualsearch.com,{{USrule}}
+DOMAIN-SUFFIX,bingworld.com,{{USrule}}
+
+#
+# PT Proxy
+#
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
 DOMAIN-SUFFIX,piggo.me,{{rule}}
