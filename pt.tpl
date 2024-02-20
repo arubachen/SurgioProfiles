@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
 DOMAIN-SUFFIX,piggo.me,{{rule}}
 DOMAIN-SUFFIX,omgwtfnzbs.me,{{rule}}
-DOMAIN-SUFFIX,broadcasthe.net,{{rule}}
 DOMAIN-SUFFIX,beyond-hd.me,{{rule}}
 DOMAIN-SUFFIX,beitai.pt,{{rule}}
 DOMAIN-SUFFIX,hdhome.org,{{rule}}
@@ -71,6 +70,7 @@ DOMAIN-SUFFIX,blutopia.xyz,{{rule}}
 #
 # No-Proxy
 #
+DOMAIN-SUFFIX,broadcasthe.net,DIRECT
 DOMAIN-SUFFIX,bittorrentfiles.me,DIRECT
 DOMAIN-SUFFIX,music-vid.com,DIRECT
 DOMAIN-SUFFIX,2f4y.me,DIRECT
