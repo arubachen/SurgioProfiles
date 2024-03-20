@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
-DOMAIN-SUFFIX,piggo.me,{{rule}}
+DOMAIN-SUFFIX,piggo.me,DIRECT
 DOMAIN-SUFFIX,omgwtfnzbs.me,{{rule}}
 DOMAIN-SUFFIX,beyond-hd.me,{{rule}}
 DOMAIN-SUFFIX,beitai.pt,{{rule}}
