@@ -2,6 +2,7 @@
 #(DNSCachePollution)
 
 # > 自定义代理
+DOMAIN-SUFFIX,captcha-delivery.com,DIRECT
 DOMAIN,story.st8.one,DIRECT
 DOMAIN-SUFFIX,txrjy.com,{{rule}}
 
