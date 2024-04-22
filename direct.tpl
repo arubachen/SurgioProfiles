@@ -1,7 +1,7 @@
 {% macro main(rule) %}
 
 # DIY
-DOMAIN-KEYWORD,captcha-delivery.com,{{ rule }}
+DOMAIN-SUFFIX,captcha-delivery.com,{{ rule }}
 
 # Alibaba
 DOMAIN-KEYWORD,alibaba-inc,{{ rule }}
