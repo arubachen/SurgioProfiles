@@ -1,4 +1,4 @@
-{% macro main(rule,byr_rule,USrule) %}
+{% macro main(rule,byr_rule,USrule,CArule) %}
 # NAME:PrivateTracker-List
 # UPDATED:2022-3-18 21:45:59
 
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 # PT Proxy
 #
+DOMAIN-SUFFIX,xbtmusic.org,{{CArule}}
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
 DOMAIN-SUFFIX,piggo.me,DIRECT
