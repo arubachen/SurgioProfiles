@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,hutongyouwu.org,{{rule}}
 DOMAIN-SUFFIX,passthepopcorn.me,{{rule}}
 DOMAIN-SUFFIX,nzbs.in,{{rule}}
 DOMAIN-SUFFIX,racing4everyone.eu,{{rule}}
-DOMAIN-SUFFIX,blutopia.xyz,{{rule}}
+DOMAIN-SUFFIX,blutopia.cc,{{rule}}
 DOMAIN-SUFFIX,aither.cc,{{rule}}
 DOMAIN-SUFFIX,localbitcoins.com,{{rule}}
 DOMAIN-SUFFIX,m-team.cc,{{rule}}
