@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 # PT Proxy
 #
+DOMAIN-SUFFIX,ourbits.club,{{rule}}
 DOMAIN-SUFFIX,xbtmusic.org,{{CArule}}
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
 DOMAIN-SUFFIX,leaves.red,{{rule}}
@@ -253,7 +254,6 @@ DOMAIN-SUFFIX,openlook.me,DIRECT
 DOMAIN-SUFFIX,oppaiti.me,DIRECT
 DOMAIN-SUFFIX,orpheus.network,DIRECT
 DOMAIN-SUFFIX,oshen.win,DIRECT
-DOMAIN-SUFFIX,ourbits.club,DIRECT
 DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
 DOMAIN-SUFFIX,piratethenet.org,DIRECT
 DOMAIN-SUFFIX,pixelados.tv,DIRECT
