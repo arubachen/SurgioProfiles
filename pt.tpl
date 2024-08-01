@@ -7,6 +7,7 @@
 #
 DOMAIN-SUFFIX,podbean.com,{{rule}}
 DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
+DOMAIN-SUFFIX,231222.xyz,DIRECT
 SRC-PORT,13378,{{rule}}
 # > Bing Copilot代理
 DOMAIN-SUFFIX,bing.com,{{USrule}}
