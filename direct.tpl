@@ -2,6 +2,7 @@
 
 # DIY
 DOMAIN-SUFFIX,captcha-delivery.com,{{ rule }}
+DOMAIN-SUFFIX,231222.xyz,{{ rule }}
 
 # Alibaba
 DOMAIN-KEYWORD,alibaba-inc,{{ rule }}
