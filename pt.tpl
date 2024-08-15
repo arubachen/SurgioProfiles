@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 # PT Proxy
 #
+DOMAIN-SUFFIX,keepfrds.com,{{rule}}
 DOMAIN-SUFFIX,ourbits.club,{{rule}}
 DOMAIN-SUFFIX,xbtmusic.org,{{CArule}}
 DOMAIN-SUFFIX,hhanclub.top,{{rule}}
@@ -218,7 +219,6 @@ DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
 DOMAIN-SUFFIX,jptv.club,DIRECT
 DOMAIN-SUFFIX,kapaki.info,DIRECT
 DOMAIN-SUFFIX,karagarga.in,DIRECT
-DOMAIN-SUFFIX,keepfrds.com,DIRECT
 DOMAIN-SUFFIX,kraytracker.com,DIRECT
 DOMAIN-SUFFIX,learnflakes.net,DIRECT
 DOMAIN-SUFFIX,lemonhd.org,DIRECT
