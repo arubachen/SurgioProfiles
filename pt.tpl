@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 # PT Proxy
 #
+DOMAIN-SUFFIX,ptchdbits.co,{{rule}}
 DOMAIN-SUFFIX,keepfrds.com,{{rule}}
 DOMAIN-SUFFIX,ourbits.club,{{rule}}
 DOMAIN-SUFFIX,xbtmusic.org,{{CArule}}
