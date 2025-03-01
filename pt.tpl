@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 # PT Proxy
 #
+DOMAIN,tracker.ptchdbits.co,{{rule}}
+DOMAIN,tracker.rainbowisland.co,{{rule}}
 DOMAIN-SUFFIX,dajiao.cyou,{{rule}}
 DOMAIN-SUFFIX,ptchdbits.co,{{rule}}
 DOMAIN-SUFFIX,keepfrds.com,{{rule}}
