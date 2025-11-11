@@ -5,7 +5,7 @@
 #
 # DIY Proxy
 #
-DOMAIN-SUFFIX,ccidcom.com,{{rule}}
+
 DOMAIN-SUFFIX,podbean.com,{{rule}}
 DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
 DOMAIN-SUFFIX,231222.xyz,DIRECT
