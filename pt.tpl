@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,bingworld.com,{{USrule}}
 #
 # PT Proxy
 #
+DOMAIN-SUFFIX,hddolby.com,{{rule}}
 DOMAIN-SUFFIX,totheglory.im,{{rule}}
 DOMAIN,tracker.ptchdbits.co,{{rule}}
 DOMAIN,tracker.rainbowisland.co,{{rule}}
