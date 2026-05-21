@@ -83,6 +83,7 @@ DOMAIN-SUFFIX,blutopia.xyz,{{rule}}
 #
 # No-Proxy
 #
+DOMAIN-SUFFIX,ttrmis.net,DIRECT
 DOMAIN-SUFFIX,broadcasthe.net,DIRECT
 DOMAIN-SUFFIX,bittorrentfiles.me,DIRECT
 DOMAIN-SUFFIX,music-vid.com,DIRECT
