@@ -1,6 +1,7 @@
 {% macro main(rule) %}
 
 # DIY
+DOMAIN-SUFFIX,muyuan.do,{{ rule }}
 DOMAIN-SUFFIX,captcha-delivery.com,{{ rule }}
 DOMAIN-SUFFIX,231222.xyz,{{ rule }}
 
