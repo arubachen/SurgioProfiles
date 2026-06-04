@@ -5,6 +5,7 @@
 #
 # DIY Proxy
 #
+DOMAIN-SUFFIX,twimg.com,{{rule}}
 DOMAIN-SUFFIX,ttrmis.net,DIRECT
 DOMAIN-SUFFIX,podbean.com,{{rule}}
 DOMAIN-SUFFIX,buzzsprout.com,{{rule}}
