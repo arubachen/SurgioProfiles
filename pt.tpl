@@ -5,6 +5,7 @@
 #
 # DIY Proxy
 #
+DOMAIN-SUFFIX,hybgzs.com,DIRECT
 DOMAIN-SUFFIX,interactivebrokers.com,{{USrule}}
 DOMAIN-SUFFIX,twimg.com,{{rule}}
 DOMAIN-SUFFIX,ttrmis.net,DIRECT
