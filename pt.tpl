@@ -5,7 +5,7 @@
 #
 # DIY Proxy
 #
-DOMAIN-SUFFIX,caixin.xtdz.top,{{USrule}}
+DOMAIN-SUFFIX,xtdz.top,{{USrule}}
 DOMAIN-SUFFIX,hybgzs.com,DIRECT
 DOMAIN-SUFFIX,interactivebrokers.com,{{USrule}}
 DOMAIN-SUFFIX,twimg.com,{{rule}}
